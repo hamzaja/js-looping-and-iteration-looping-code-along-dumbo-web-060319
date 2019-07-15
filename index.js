@@ -1,7 +1,7 @@
 // Code your solutions in this file
 function writeCards(arr){
-  
-  return `Thank you, ${arr}, for the wonderful surprise gift!`
+  for (let i=0; i <= arr.length ; i++ ){
+  return `Thank you, ${arr[i]}, for the wonderful surprise gift!`}
 }
   
 
