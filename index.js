@@ -8,4 +8,8 @@ function writeCards(arr){
   return a;
 }
   
+function countdown(num){
+  while (num <= 0)
+  
+}
 
